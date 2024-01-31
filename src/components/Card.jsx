@@ -3,12 +3,12 @@ import Oeil from "../assets/oeil.jpg";
 import { Link } from "react-router-dom";
 
 function Card(props) {
-  const { img, title, description, showDescription } = props;
+  const { index, img, title, description, showDescription } = props;
   return (
     <section className="cardSection">
       <div className="card">
         {/* Lien vers la page "book" selectionnée */}
-        <Link to="/book">
+        <Link to={`/books/${index}`}>
           <img src={img} alt="Logo" className="cardImage" />
           <h3 className="cardTitle">{title}</h3>
 

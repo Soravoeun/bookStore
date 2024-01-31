@@ -23,18 +23,21 @@ function Grids() {
 
   const grid = [
     {
+      index: 0,
       img: rigole,
       title: "Après coup Jean rigole",
       description:
         "Après coup Jean rigole.....Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem molestias, repudiandae consequatur ullam nisi ab sunt nesciunt vitae ratione provident qui, officia voluptatibus dicta, blanditiis iste esse iusto voluptates ea. Hic a alias fugiat sapiente minima ea debitis nostrum nulla? Beatae illo atque quod a dolorem facilis ab eum delectus? Cum nobis quia consequuntur? Ad esse aliquid qui, nisi optio ipsam alias sit impedit minus eos blanditiis vitae asperiores perspiciatis velit est necessitatibus laudantium ea deleniti? Fugit debitis tenetur, doloribus minus libero velit modi ullam amet ratione? Fuga in consectetur perspiciatis quibusdam. Consectetur, provident placeat. Magni ut quidem sequi facilis?",
     },
     {
+      index: 1,
       img: bahamas,
       title: "Des vacances aux Bahamas",
       description:
         "Des vacances aux Bahamas.....Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae autem itaque facilis quia omnis harum, veniam unde. Omnis doloremque, suscipit architecto a accusamus iusto. Modi reiciendis impedit repudiandae, deserunt laudantium velit totam nesciunt laboriosam, esse maiores sequi consectetur accusantium beatae iure eius. Accusamus facilis obcaecati ex incidunt voluptatem eligendi, impedit distinctio, tenetur blanditiis ullam error, nulla deserunt maiores illo consectetur perspiciatis laboriosam dolor nesciunt sunt commodi cum! Dolores veritatis accusamus praesentium asperiores, eligendi numquam perspiciatis esse consequatur harum delectus, deserunt ducimus doloribus iure earum minus eum corporis. Dolore, quo similique corporis quaerat non aliquid error natus eveniet sequi. Obcaecati, laudantium.",
     },
     {
+      index: 2,
       img: oeil,
       title: "Il me reste encore un œil",
       description:

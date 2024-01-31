@@ -9,7 +9,7 @@ function Accueil() {
       <article className="description">
         <section className="cardSection">
           <div className="card">
-            <Card img={oeil} title="Il me reste encore un œil" />
+            <Card index="2" img={oeil} title="Il me reste encore un œil" />
           </div>
         </section>
 
